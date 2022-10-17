@@ -2,7 +2,7 @@
 Public documentation about the Demo-Smart-Factory at Concordia University.
 
 This demo factory is part of the Gina Cody School research center for Advanced Manufacturing and is operated by the 
-[Electrochemical Green Engineering Group](ege.encs.concordia.ca)
+[Electrochemical Green Engineering Group](http://ege.encs.concordia.ca)
 
 ## General concept
 
