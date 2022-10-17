@@ -10,6 +10,6 @@ Various manufacturing technologies are assembled in this demo factory. Data exch
 
 ![General Concept](images/GeneralConcept.png)
 
-Data collection uses the MTConnect standard to represent manufacturing data.
+Data collection uses the MTConnect standard to represent manufacturing data. Streaming MTConnect data to Kafka is perfomred using the [mtc2kafka](https://github.com/rwuthric/mtc2kafka) library.
 
 ![Data Flow](images/DataFlow.png)
