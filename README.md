@@ -6,7 +6,7 @@ This demo factory is part of the Gina Cody School research center for Advanced M
 
 ## General concept
 
-Various manufacturing technologies are assembled in this demo factory. Data exchange is taking place using a publish-subscribe paradigm and is implemented with Apache Kafka server.
+Various manufacturing technologies are assembled in this demo factory. Data exchange is taking place using a publish-subscribe paradigm and is implemented with an Apache Kafka server.
 
 ![General Concept](images/GeneralConcept.png)
 
