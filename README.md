@@ -17,5 +17,9 @@ Data collection uses the MTConnect standard to represent manufacturing data.
 
 ![Data Flow](images/DataFlow.png)
 
+## Generic equipment deployment
+All the infrastructure follows the principle of Infrastructure as Code (IaC). Deployment is done using docker and docker-compose on various virtual machines. Docker swarm is used as orchestrator.
+![Generic deployment](images/GenericEquipmentDeployment.png)
+
 ## Access
 Members of the project have access through our dedicated JupyterHub server.
